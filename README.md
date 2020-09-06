@@ -24,3 +24,6 @@ To add an entry through json:<br>
 
 To add an entry through request body:<br>
 (domain)/
+
+<h2>Future Plans</h2>
+I am planning to make a new Microservice each week. At the end I intend to connect these services in a couple of web applications. I am planning to continue this process until I am fluent with the Microservice Architecture.
